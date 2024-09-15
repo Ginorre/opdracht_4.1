@@ -1,0 +1,32 @@
+h1{
+    font-size: 24px;
+    color: rgb(50, 50, 219);
+    font-weight: bolder;
+    font-style: italic;
+}
+
+h2{
+    font-size: 20px;
+    color: #0000ff;
+    font-weight: bolder;
+}
+
+h3{
+    font-size: 16px;
+    color: teal;
+    font-weight: bolder;
+}
+
+p{
+    color: #4d4d4d;
+
+}
+
+p.weightfont {
+    font-weight: bolder;
+}
+
+a{
+    color: #8a2be2;
+    text-decoration: none;
+}
